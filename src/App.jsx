@@ -1,10 +1,73 @@
-function App() {
+import React from "react";
+import Navbar from "./components/navbar/Navbar";
 
+function App() {
   return (
     <div>
-      Hello world!
+      <Navbar />
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>
+      <div>hi</div>v
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
