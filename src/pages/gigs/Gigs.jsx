@@ -9,4 +9,4 @@ const Gigs = () => {
   )
 }
 
-export default Gigs
+export default Gigs;

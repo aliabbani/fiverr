@@ -9,4 +9,4 @@ const Gig = () => {
   )
 }
 
-export default Gig
+export default Gig;
