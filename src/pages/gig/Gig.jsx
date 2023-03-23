@@ -273,7 +273,7 @@ const Gig = () => {
               <span>Additional design</span>
             </div>
           </div>
-          <button>Continue</button>
+          <button>Continues</button>
         </div>
       </div>
     </div>
