@@ -6,22 +6,22 @@
   color: white;
   position: sticky;
   top: 0;
-  // z-index: 999;
+  z-index: 999;
   transition: 0.5s all ease;
 
   &.active {
     background-color: white;
     color: black;
 
-    // button {
-    //   background-color: white !important;
-    //   color: #1dbf73 !important;
-    //   border: 1px solid #1dbf73 !important;
-    // }
+    button {
+      background-color: white !important;
+      color: #1dbf73 !important;
+      border: 1px solid #1dbf73 !important;
+    }
   }
 
   .container {
-    width: 1000px;
+    width: 1300px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -35,7 +35,7 @@
       }
 
       .dot {
-        // font-weight: bold;
+        font-weight: bold;
         color: #1dbf73;
       }
     }
@@ -46,9 +46,9 @@
       font-family: "Montserrat", sans-serif;
       font-weight: 500;
 
-      // span {
-      //   white-space: nowrap;
-      // }
+      span {
+        white-space: nowrap;
+      }
 
       .user {
         display: flex;
@@ -99,16 +99,14 @@
   }
 
   hr {
-    // width: calc(100% - 2px);
-    width: 100%;
+    width: calc(100% - 2px);
     height: 0;
-    // border-top: 0.5px solid #ebe9e9;
-    // border-bottom: 0.5px solid #ebe9e9;
-    border: 0.1px solid lightgrey;
+    border-top: 0.5px solid #ebe9e9;
+    border-bottom: 0.5px solid #ebe9e9;
   }
 
   .menu {
-    width: 1000px;
+    width: 1300px;
     padding: 10px 0px;
     display: flex;
     justify-content: space-between;
